@@ -18,7 +18,7 @@ toc: true
 
 I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/) under the supervision of [Prof. Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research interest reply on Trustworthy AI and Adversarial ML. I am actively researching on the trustworthiness of generative models. I am also fascinated by the complexities of adversarial attacks and the methods involved in adversarial training, which play crucial roles in improving the resilience of models across diverse domains.
 
-### Publications
+## Publications
 
 <!-- ### Demo Pages -->
 
