@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: ""
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -16,11 +16,7 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
-
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+I am a Ph.D. student in Computer Science at the University of Massachusetts Amherst under the supervision of Prof. Amir Houmansadr. My research interest reply on Trustworthy AI and Adversarial ML. I am actively researching on the trustworthiness of generative models. I am also fascinated by the complexities of adversarial attacks and the methods involved in adversarial training, which play crucial roles in improving the resilience of models across diverse domains.
 
 ## Notable Features
 
