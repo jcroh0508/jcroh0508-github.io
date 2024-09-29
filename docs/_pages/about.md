@@ -18,7 +18,7 @@ toc: true
 
 I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/) under the supervision of [Prof. Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research interest reply on Trustworthy AI and Adversarial ML. I am actively researching on the trustworthiness of generative models. I am also fascinated by the complexities of adversarial attacks and the methods involved in adversarial training, which play crucial roles in improving the resilience of models across diverse domains.
 
-## Notable Features
+### Notable Features
 
 - Bundled as a "theme gem" for easier install/upgrading.
 - Compatible with GitHub Pages.
@@ -31,9 +31,9 @@ I am a Ph.D. student in Computer Science at the [University of Massachusetts Amh
 - [Google Analytics](https://www.google.com/analytics/) support.
 - UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Czech, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
 
-## Demo Pages
+<!-- ### Demo Pages -->
 
-| Name                                        | Description                                           |
+<!-- | Name                                        | Description                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | [Post with Header Image][header-image-post] | A post with a large header image. |
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
@@ -52,28 +52,5 @@ For even more demo pages check the [posts archive][year-archive].
 [sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
 [categories-archive]: {{ "/categories/" | relative_url }}
 [tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+[year-archive]: {{ "/year-archive/" | relative_url }} -->
 
----
-
-## Credits
-
-### Icons + Demo Images:
-
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
