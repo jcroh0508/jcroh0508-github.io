@@ -102,34 +102,27 @@ author:
   avatar           : "/assets/images/Jaechul Roh photo.jpg"
   bio              : "Ph.D. Student in CS @ Umass Amherst"
   location         : "Amherst, MA"
-  googleschlar     : "https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko"
   links:
-    - label: ""
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: ""
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
+      url: "https://scholar.google.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcroh0508"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/harry.roh.10/"
 
 
 # Site Footer
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+# footer:
+#   links:
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/mmistakes"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/mmistakes"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/mmistakes"
 
 
 # Reading Files
