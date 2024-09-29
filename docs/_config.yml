@@ -11,9 +11,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : " "
 title_separator          : "-"
-subtitle                 : "
+subtitle                 : " "
 name                     : &name "Jaechul Roh" # &name is a YAML anchor which can be *referenced later
 description              : &description "Jaechul (Harry) Roh's Academic Website"
 url                      : "https://jcroh0508.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
