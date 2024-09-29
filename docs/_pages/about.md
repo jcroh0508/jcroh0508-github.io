@@ -16,7 +16,7 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
-I am a Ph.D. student in Computer Science at the University of Massachusetts Amherst under the supervision of Prof. Amir Houmansadr. My research interest reply on Trustworthy AI and Adversarial ML. I am actively researching on the trustworthiness of generative models. I am also fascinated by the complexities of adversarial attacks and the methods involved in adversarial training, which play crucial roles in improving the resilience of models across diverse domains.
+I am a Ph.D. student in Computer Science at the [University of Massachusetts Amherst](https://www.cics.umass.edu/) under the supervision of [Prof. Amir Houmansadr](https://people.cs.umass.edu/~amir/). My research interest reply on Trustworthy AI and Adversarial ML. I am actively researching on the trustworthiness of generative models. I am also fascinated by the complexities of adversarial attacks and the methods involved in adversarial training, which play crucial roles in improving the resilience of models across diverse domains.
 
 ## Notable Features
 
@@ -77,5 +77,3 @@ For even more demo pages check the [posts archive][year-archive].
 - [Lunr](http://lunrjs.com)
 
 ---
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
