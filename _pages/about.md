@@ -43,7 +43,7 @@ Dec 22 '23: Our paper "Memory Triggers: Unveiling Memorization in Text-To-Image 
 **Backdooring Bias into Text-to-Image Models**  
    Ali Naseh, **<u><b>Jaechul Roh</b></u>**, Eugene Bagdasaryan, Amir Houmansadr  
    Under Review at ICLR 2025  
-   [[paper]](https://arxiv.org/pdf/2406.15213)
+   [[paper]](https://arxiv.org/pdf/2406.15213) [[code]](https://github.com/jcroh0508/Backdororing_Bias/)
 
 **Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**  
    Ali Naseh, **<u><b>Jaechul Roh</b></u>**, Amir Houmansadr  
