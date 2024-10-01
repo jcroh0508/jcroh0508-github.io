@@ -66,7 +66,7 @@ body {
 
 .page__title {
   margin-top: 0;
-  line-height: 1;
+  line-height: $line-height;
 
   a {
     color: $text-color;
@@ -94,7 +94,8 @@ body {
 			position: relative;
 			inset-inline-start: 0.5em;
 			opacity: 0;
-			font-size: 0.8em;
+			font-size: $doc-font-size;
+      line-height: $line-height;
 			-webkit-transition: opacity 0.2s ease-in-out 0.1s;
 			-moz-transition: opacity 0.2s ease-in-out 0.1s;
 			-o-transition: opacity 0.2s ease-in-out 0.1s;
@@ -123,6 +124,7 @@ body {
         margin-top: -($indent-var);
       }
     }
+    line-height: $line-height;
   }
 
   a:not(.btn) {

@@ -117,11 +117,11 @@ author:
   avatar           : "/images/Jaechul Roh photo.jpg"
   bio              : "Ph.D. Student in Computer Science @ UMass Amherst"
   location         : "Amherst, MA"
-  email            : "jroh@cs.umass.edu"
+  email            :
   links:
-    - label: "Email"
+    - label: "jroh@cs.umass.edu"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "jroh@cs.umass.edu"
+      url: "jroh@cs.umass.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcroh0508"
