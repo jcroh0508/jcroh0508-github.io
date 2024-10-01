@@ -14,7 +14,7 @@ layouts_gallery:
 ---
 
 <!-- ######################################################################################################################################## -->
-I am a Ph.D. student in computer science at the <a href="https://www.cics.umass.edu/" target="_black">University of Massachusetts Amherst</a> under the guidance of <a href="https://people.cs.umass.edu/~amir/" target="_blank">Prof.Amir Houmansadr</a>. 
+I am a Ph.D. student in computer science at the <a href="https://www.cics.umass.edu/" target="_black">University of Massachusetts Amherst</a>, advised by Prof.<a href="https://people.cs.umass.edu/~amir/" target="_blank">Amir Houmansadr</a>. 
 
 My research interests are centered on <b><u>Privacy & Security in AI</u></b> and <b><u>Trustworthy ML</u></b>. Lately, my work has involved exploring the trustworthiness of generative models, while I am also deeply intrigued by the complexities of adversarial attacks and the adversarial training techniques that improve the resilience of AI model across various of domains.
 
