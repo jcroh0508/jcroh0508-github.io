@@ -1,6 +1,6 @@
 ---
 # title: "About"
-permalink: /about/   # This makes the page accessible as the root page
+permalink: /   # This makes the page accessible as the root page
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -20,9 +20,9 @@ layouts_gallery:
 ## <span style="font-size: 22px;">Publication</span>
 
 <span style="font-size: 18px;">
-**OSLO: One-Shot Label-Only Membership Inference Attacks**
+**OSLO: One-Shot Label-Only Membership Inference Attacks**  
    Yuefeng Peng, **Jaechul Roh**, Subhransu Maji, Amir Houmansadr  
-   Accepted at NeurIPS 2024  
+   NeurIPS 2024  
    [[paper]](https://arxiv.org/pdf/2405.16978)
    </span>
 
@@ -64,6 +64,6 @@ layouts_gallery:
 <span style="font-size: 18px;">
 **Impact of Adversarial Training on the Robustness of Deep Neural Networks**  
    **Jaechul Roh**  
-   2022 IEEE 5th International  
+   2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)  
    [paper](https://ieeexplore.ieee.org/abstract/document/9927611) | [code](https://github.com/jcroh0508/Adversarial_Training_Impact)
    </span>
