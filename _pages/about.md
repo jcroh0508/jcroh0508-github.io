@@ -17,7 +17,15 @@ layouts_gallery:
 
 <span style="font-size: 18px;"> I earned my B.Eng in Computer Engineering from the Hong Kong University of Science and Technology in the year 2023, where I completed my Final Year Thesis (FYT) under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a> in "Adversarial Attacks in Federated Learning".</span>
 
-## <span style="font-size: 22px;">Publication</span>
+## <span style="font-size: 22px;">📣 News</span>
+
+<span style="font-size: 18px;">
+Sep 27 '24: Our paper **OSLO: One-Shot Label-Only Membership Inference Attacks** was accepted to NeurIPS '24! 🎉</span>
+
+<span style="font-size: 18px;">
+Dec 22 '23: Our paper **Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication** was accepted to the  AAAI '23 PPAI Workshop! 🎉</span>
+
+## <span style="font-size: 22px;">📝 Publication</span>
 
 <span style="font-size: 18px;">
 **OSLO: One-Shot Label-Only Membership Inference Attacks**  
@@ -51,19 +59,19 @@ layouts_gallery:
 **Robust Smart Home Face Recognition under Starving Federated Data**  
    **Jaechul Roh**, Yajun Fang  
    Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)  
-   [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10185525) | [code](https://github.com/jcroh0508/FLATS) | [slides](https://www.jrohs.com/_files/ugd/c489e1_bbc7e44075944cad98da82f31e7430ae.pdf) | [video](https://www.youtube.com/watch?v=Tj9QiJEUBXU&ab_channel=jroh)
+   [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10185525) | [[code]](https://github.com/jcroh0508/FLATS) | [[slides]](https://www.jrohs.com/_files/ugd/c489e1_bbc7e44075944cad98da82f31e7430ae.pdf) | [[video]](https://www.youtube.com/watch?v=Tj9QiJEUBXU&ab_channel=jroh)
    </span>
 
 <span style="font-size: 18px;">
 **MSDT: Masked Language Model Scoring Defense in Text Domain**  
    **Jaechul Roh**, Minhao Cheng, Yajun Fang  
    Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)  
-   [[paper]](https://ieeexplore.ieee.org/document/10185524) | [code](https://github.com/jcroh0508/MSDT) | [slides](https://www.jrohs.com/_files/ugd/c489e1_bbc7e44075944cad98da82f31e7430ae.pdf) | [video](https://www.youtube.com/watch?v=oO3FbxnMdv0&ab_channel=jroh)
+   [[paper]](https://ieeexplore.ieee.org/document/10185524) | [[code]](https://github.com/jcroh0508/MSDT) | [[slides]](https://www.jrohs.com/_files/ugd/c489e1_bbc7e44075944cad98da82f31e7430ae.pdf) | [[video]](https://www.youtube.com/watch?v=oO3FbxnMdv0&ab_channel=jroh)
    </span>
 
 <span style="font-size: 18px;">
 **Impact of Adversarial Training on the Robustness of Deep Neural Networks**  
    **Jaechul Roh**  
    2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)  
-   [[paper]](https://ieeexplore.ieee.org/abstract/document/9927611) | [code](https://github.com/jcroh0508/Adversarial_Training_Impact)
+   [[paper]](https://ieeexplore.ieee.org/abstract/document/9927611) | [[code]](https://github.com/jcroh0508/Adversarial_Training_Impact)
    </span>
