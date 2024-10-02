@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Jaechul Roh"
 description              : #
-url                      : "https://jcroh0508.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jrohsc.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jcroh0508/jcroh0508.github.io"
+repository               : "jrohsc/jrohsc.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -124,7 +124,7 @@ author:
       url: "jroh@cs.umass.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/jcroh0508"
+      # url: "https://github.com/jrohsc"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://www.linkedin.com/in/jaechul-roh-572363155/"
