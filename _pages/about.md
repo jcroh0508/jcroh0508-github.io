@@ -18,7 +18,7 @@ I am a Ph.D. student in computer science at the University of Massachusetts Amhe
 
 My research interests are centered on <b><u>Privacy & Security in AI</u></b> and <b><u>Trustworthy ML</u></b>. Lately, my work has involved exploring the trustworthiness of generative models, while I am also deeply intrigued by the complexities of adversarial attacks and the adversarial training techniques that improve the resilience of AI model across various of domains.
 
-Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology (HKUST) in the year 2023, where I completed my Final Year Thesis (FYT) under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a> in "Adversarial Attacks in Federated Learning". I have also worked with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on trustworthiness in language models.
+Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology (HKUST) in the year 2023, where I completed my Final Year Thesis (FYT) on the topic of "Adversarial Attacks in Federated Learning" under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a>. I have also worked with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on the trustworthiness of language models, specifically exploring backdoor defense in text domain.
 
 
 [[Résumé]](files/CV - Jaechul Roh (2024.10.02).pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko) / [[GitHub]](https://github.com/jcroh0508) / [[Linkedin]](https://www.linkedin.com/in/jaechul-roh-572363155/)
