@@ -14,21 +14,21 @@ layouts_gallery:
 ---
 
 <!-- ######################################################################################################################################## -->
-I am a Ph.D. student in computer science at the <a href="https://www.cics.umass.edu/" target="_black">University of Massachusetts Amherst</a>, advised by <a href="https://people.cs.umass.edu/~amir/" target="_blank">Prof. Amir Houmansadr</a>. 
+I am a Ph.D. student in computer science at the University of Massachusetts Amherst, advised by <a href="https://people.cs.umass.edu/~amir/" target="_blank">Prof. Amir Houmansadr</a>. 
 
 My research interests are centered on <b><u>Privacy & Security in AI</u></b> and <b><u>Trustworthy ML</u></b>. Lately, my work has involved exploring the trustworthiness of generative models, while I am also deeply intrigued by the complexities of adversarial attacks and the adversarial training techniques that improve the resilience of AI model across various of domains.
 
-Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology in the year 2023, where I completed my Final Year Thesis (FYT) under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a> in "Adversarial Attacks in Federated Learning".
+Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology (HKUST) in the year 2023, where I completed my Final Year Thesis (FYT) under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a> in "Adversarial Attacks in Federated Learning". I have also worked with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on trustworthiness in language models.
 
 
-[Google Scholar](https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko) / [GitHub](https://github.com/jcroh0508) / [Linkedin](https://www.linkedin.com/in/jaechul-roh-572363155/)
+[[Résumé]](files/CV - Jaechul Roh (2024.10.02).pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko) / [[GitHub]](https://github.com/jcroh0508) / [[Linkedin]](https://www.linkedin.com/in/jaechul-roh-572363155/)
 
 <!-- ############################################################################################### -->
 ## 📣 News
 
-Sep 27 '24: Our paper "OSLO: One-Shot Label-Only Membership Inference Attacks" was accepted to NeurIPS '24! 🎉
+* **Sep 27 '24**: Our paper "OSLO: One-Shot Label-Only Membership Inference Attacks" was accepted to NeurIPS '24! 🎉
 
-Dec 22 '23: Our paper "Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication" was accepted to the  AAAI '23 PPAI Workshop! 🎉
+* **Dec 22 '23**: Our paper "Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication" was accepted to the  AAAI '23 PPAI Workshop! 🎉
 
 <!-- ######################################################################################################################################## -->
 
@@ -36,36 +36,42 @@ Dec 22 '23: Our paper "Memory Triggers: Unveiling Memorization in Text-To-Image 
 
 **OSLO: One-Shot Label-Only Membership Inference Attacks** <br>
    Yuefeng Peng, <u><b>Jaechul Roh</b></u>, Subhransu Maji, Amir Houmansadr <br>
-   NeurIPS 2024 <br>
+   *NeurIPS 2024* <br>
+   <!-- NeurIPS 2024 -->
    <a href="https://arxiv.org/pdf/2405.16978" target="_blank">[paper]</a>
 
 
 **Backdooring Bias into Text-to-Image Models**  
    Ali Naseh, **<u><b>Jaechul Roh</b></u>**, Eugene Bagdasaryan, Amir Houmansadr  
-   Under Review at ICLR 2025  
+   *Preprint at arXiv (Under Review)*  
+   <!-- NeurIPS 2024 -->
    [[paper]](https://arxiv.org/pdf/2406.15213) [[code]](https://github.com/jcroh0508/Backdororing_Bias/)
 
 **Memory Triggers: Unveiling Memorization in Text-To-Image Generative Models through Word-Level Duplication**  
    Ali Naseh, **<u><b>Jaechul Roh</b></u>**, Amir Houmansadr  
-   The 5th AAAI Workshop on Privacy-Preserving Artificial Intelligence  
+   *The 5th AAAI Workshop on Privacy-Preserving Artificial Intelligence*  
+   <!-- The 5th AAAI Workshop on Privacy-Preserving Artificial Intelligence -->
    [[paper]](https://arxiv.org/pdf/2312.03692)
 
 **Understanding (Un)Intended Memorization in Text-to-Image Generative Models**  
    Ali Naseh, **<u><b>Jaechul Roh</b></u>**, Amir Houmansadr  
-   Preprint at arXiv  
+   *Preprint at arXiv*  
    [[paper]](https://arxiv.org/pdf/2312.07550)
 
 **Robust Smart Home Face Recognition under Starving Federated Data**  
    **<u><b>Jaechul Roh</b></u>**, Yajun Fang  
-   Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)  
+   *Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)*  
+   <!-- Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)   -->
    [[paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10175525) | [[code]](https://github.com/jcroh0508/FLATS) | [[slides]](https://www.jrohs.com/_files/ugd/c489e1_bbc7e44075944cad98da82f31e7430ae.pdf) | [[video]](https://www.youtube.com/watch?v=Tj9QiJEUBXU&ab_channel=jroh)
 
 **MSDT: Masked Language Model Scoring Defense in Text Domain**  
    **<u><b>Jaechul Roh</b></u>**, Minhao Cheng, Yajun Fang  
-   Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)  
+   *Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022*)  
+   <!-- Oral Presentation in the IEEE International Conference on Universal Village (IEEE UV2022)   -->
    [[paper]](https://ieeexplore.ieee.org/document/10175524) | [[code]](https://github.com/jcroh0508/MSDT) | [[slides]](https://www.jrohs.com/_files/ugd/c489e1_bbc7e44075944cad98da82f31e7430ae.pdf) | [[video]](https://www.youtube.com/watch?v=oO3FbxnMdv0&ab_channel=jroh)
 
 **Impact of Adversarial Training on the Robustness of Deep Neural Networks**  
    **<u><b>Jaechul Roh</b></u>**  
-   2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)  
+   *2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)*  
+   <!-- 2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)   -->
    [[paper]](https://ieeexplore.ieee.org/abstract/document/9927611) | [[code]](https://github.com/jcroh0508/Adversarial_Training_Impact)
