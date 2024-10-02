@@ -32,7 +32,7 @@ Prior to my graduate studies, I earned my bachelor's degree in computer engineer
 
 <!-- ######################################################################################################################################## -->
 
-## 📝 Publication
+## 📝 Publications
 
 **OSLO: One-Shot Label-Only Membership Inference Attacks** <br>
    Yuefeng Peng, <u><b>Jaechul Roh</b></u>, Subhransu Maji, Amir Houmansadr <br>
