@@ -16,4 +16,4 @@ layouts_gallery:
 Here are some of my informal writings based on my thoughts and experiences. Hope everyone enjoys 🙂.
 
 ## 2024
-[Insights from AAAI '23](2024-10-02-AAAI.md): a summary of insights and research ideas I gained from the Fifth AAAI '23 Privacy-Preserving Workshop.
+[Insights from AAAI '23](2024-10-02-AAAI.md): a summary of insights and research ideas I gained from the Fifth AAAI '23 Privacy-Preserving AI Workshop.
