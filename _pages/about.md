@@ -16,13 +16,14 @@ layouts_gallery:
 <!-- ######################################################################################################################################## -->
 I am a Ph.D. student in computer science at the University of Massachusetts Amherst, advised by <a href="https://people.cs.umass.edu/~amir/" target="_blank">Prof. Amir Houmansadr</a>. 
 
-My research interests are centered on <b><u>Privacy & Security in AI</u></b> and <b><u>Trustworthy ML</u></b>. Lately, my work has involved studying the trustworthiness of generative models, while I am also fascinated by various related topics such as **fairness** and **interpretability**. Additionally, I am deeply intrigued by the complexities of adversarial attacks that improve the resilience of AI models across different domains and modalities.
+My research interests are centered on <b>privacy & security in AI</b> . Lately, my work has involved studying the trustworthiness of generative models, while I am also fascinated by various adjacent topics such as **fairness** and **interpretability**. Additionally, I am deeply intrigued by the complexities of adversarial attacks that improve the resilience of AI models across different domains and modalities.
 
 Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology (HKUST) in the year 2023, where I completed my Final Year Thesis (FYT) on the topic of "Adversarial Attacks in Federated Learning" under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a>. I have also worked with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on the robustness of language models, specifically exploring methods associated with backdoor defense in text domain.
 
-
+--------
 [[Résumé]](files/CV - Jaechul Roh (2024.10.02).pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko) / [[GitHub]](https://github.com/jcroh0508) / [[Linkedin]](https://www.linkedin.com/in/jaechul-roh-572363155/)
 
+<!-- <span style="font-family: 'Courier New', Courier, monospace;">ideas.txt</span> -->
 <!-- ############################################################################################### -->
 ## 📣 News
 
