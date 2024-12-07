@@ -81,5 +81,6 @@ Prior to my graduate studies, I earned my bachelor's degree in computer engineer
 ## 🤖 Projects
 **FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**  
    **<u><b>Jaechul Roh</b></u>**, Andrew Yuan, Jinsong Mao
+   <!-- 2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)   -->
    *CS 670 (Computer Vision) Course Project*  
-   [[paper]](files/cs_670.pdf) [[code]](https://github.com/jrohsc/FameBias/tree/jroh)
+   [[paper]](files/cs_670.pdf) [[code]](https://github.com/jrohsc/FameBias/)
