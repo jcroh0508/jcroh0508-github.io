@@ -78,9 +78,9 @@ Prior to my graduate studies, I earned my bachelor's degree in computer engineer
    [[paper]](https://ieeexplore.ieee.org/abstract/document/9927611) | [[code]](https://github.com/jcroh0508/Adversarial_Training_Impact)
 
 
-## 🤖 Projects
+<!-- ## 🤖 Projects
 **FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models**  
    **<u><b>Jaechul Roh</b></u>**, Andrew Yuan, Jinsong Mao \
-   *CS 670 (Computer Vision) Course Project*  
+   *CS 670 (Computer Vision) Course Project*   -->
    <!-- 2022 IEEE 5th International Conference on Information Systems and Computer Aided Education (ICISCAE)   -->
    <!-- [[paper]](files/cs_670.pdf) [[code]](https://github.com/jrohsc/FameBias/) -->
