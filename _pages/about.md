@@ -16,7 +16,7 @@ layouts_gallery:
 <!-- ######################################################################################################################################## -->
 I am a Ph.D. student in computer science at the University of Massachusetts Amherst, advised by <a href="https://people.cs.umass.edu/~amir/" target="_blank">Prof. Amir Houmansadr</a>. 
 
-My research is centered on **Privacy & Security in AI** and **Trustworthy Machine Learning**. Lately, my work has involved studying the trustworthiness of multimodal models, while I am also fascinated by various adjacent topics such as **fairness**, **interpretability**, and **responsible AI**. Currently, I am investigating the trustworthiness of multimodal generative models across various domains, including text-to-image and audio-based modalities.
+My research focuses on exploring the **privacy, security, and trustworthiness** of AI models. Recently, I have been investigating the reliability of multimodal models, while also maintaining a strong interest in related areas such as **fairness, interpretability, and responsible AI**. My current work delves into assessing the trustworthiness of multimodal generative models across diverse domains, including text-to-image and audio-based modalities.
 
 Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology (HKUST) in the year 2023, where I completed my Final Year Thesis (FYT) on the topic of "Adversarial Attacks in Federated Learning" under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a>. I have also worked with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on the robustness of language models, specifically exploring methods associated with backdoor defense in text domain.
 
@@ -35,12 +35,23 @@ Prior to my graduate studies, I earned my bachelor's degree in computer engineer
 
 ## 📝 Publications
 
+**OverThink: Slowdown Attacks on Reasoning LLMs** <br>
+   Abhinav Kumar, **<u><b>Jaechul Roh</b></u>**, Ali Naseh, Marezna Karpinska, Mohit Iyyer, Amir Houmansadr, and Eugene Bagdasaryan
+   *Preprint at arXiv* <br>
+   <!-- NeurIPS 2024 -->
+   [[paper]](https://arxiv.org/abs/2502.02542) [[code]](https://github.com/akumar2709/OVERTHINK_public)
+
+**FameBias: Embedding Manipulation Bias Attack in Text-to-Image Models** <br>
+   **<u><b>Jaechul Roh</b></u>**, Andrew Yuan, Jinsong Mao <br>
+   *Preprint at arXiv* <br>
+   <!-- NeurIPS 2024 -->
+   <a href="https://arxiv.org/pdf/2412.18302" target="_blank">[paper]</a>
+
 **OSLO: One-Shot Label-Only Membership Inference Attacks** <br>
    Yuefeng Peng, <u><b>Jaechul Roh</b></u>, Subhransu Maji, Amir Houmansadr <br>
    *NeurIPS 2024* <br>
    <!-- NeurIPS 2024 -->
    <a href="https://arxiv.org/pdf/2405.16978" target="_blank">[paper]</a>
-
 
 **Backdooring Bias into Text-to-Image Models**  
    Ali Naseh, **<u><b>Jaechul Roh</b></u>**, Eugene Bagdasaryan, Amir Houmansadr  
