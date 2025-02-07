@@ -21,7 +21,7 @@ My research focuses on exploring the **privacy, security, and trustworthiness** 
 Prior to my graduate studies, I earned my bachelor's degree in computer engineering from the Hong Kong University of Science and Technology (HKUST) in the year 2023, where I completed my Final Year Thesis (FYT) on the topic of "Adversarial Attacks in Federated Learning" under the supervision of <a href="https://eejzhang.people.ust.hk/" target="_black">Prof. Jun Zhang</a>. I have also worked with [Prof. Minhao Cheng](https://cmhcbb.github.io/) on the robustness of language models, specifically exploring methods associated with backdoor defense in text domain.
 
 --------
-[[Résumé]](files/CV - Jaechul Roh (11.19.2024).pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko) / [[GitHub]](https://github.com/jrohsc) / [[Linkedin]](https://www.linkedin.com/in/jaechul-roh-572363155/)
+[[Résumé]](files/CV - Jaechul Roh.pdf) / [[Google Scholar]](https://scholar.google.com/citations?user=knCeRjsAAAAJ&hl=ko) / [[GitHub]](https://github.com/jrohsc) / [[Linkedin]](https://www.linkedin.com/in/jaechul-roh-572363155/)
 
 <!-- <span style="font-family: 'Courier New', Courier, monospace;">ideas.txt</span> -->
 <!-- ############################################################################################### -->
